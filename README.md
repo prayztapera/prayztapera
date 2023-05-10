@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @prayztapera
 - 👀 I’m interested in coding and developing applications
-- 🌱 I’m currently learning Java Swing and JSP
-- 💞️ I’m looking to collaborate on anything related to C, c++, java , html, php, javascript etc 
+- 🌱 I’m currently learning Laravel and Vue JS 
+- 🌱 I'm in love with DevOps and also looking forward to collaborate on anything related 
+- 💞️ I’m looking to collaborate on anything related to C, c++, java , html, php, javascript, etc 
 - 📫 How to reach me email praisetapera9@gmail.com
 
 <!---
